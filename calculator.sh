@@ -8,4 +8,4 @@ b=2
 x=$((a + b))
 echo "addition of $a and $b is : $x "
 echo "exit"
-echo "Thankyou"
+echo "Thanks!"
