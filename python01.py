@@ -5,7 +5,7 @@ USERNAME = "your-github-username"
 TOKEN = "your-personal-access-token"
 
 # GitHub API endpoint
-url = f"https://api.github.com/users/{USERNAME}/repos"
+url = f"https://api.github.com/users/{Shivasai-21}/repos"
 
 # Make the request with authentication
 response = requests.get(url, auth=(USERNAME, TOKEN))
